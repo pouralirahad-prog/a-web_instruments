@@ -62,7 +62,7 @@ div {
 
 }
 
-#skills button {
+skills button {
     box-shadow: 10px 10px 20px gray;
     color: white;
     background-color: black;
@@ -73,7 +73,7 @@ div {
     transition: 0.5s;
 }
 
-#skills button:hover {
+skills button:hover {
     color: black;
     background-color: white;
     transform: scale(1.1);
